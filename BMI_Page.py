@@ -5,8 +5,6 @@ class BMI(tk.Frame):
         tk.Frame.__init__  (self, master)
         self.parent = master
         self.config(width=400, height=600)
-
-        asgdskfsd
         
         # MAIN FRAME
         self.main_frame = tk.Frame(self, bd=20, width=350, height=600, bg='sky blue', relief='sunken')
